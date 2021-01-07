@@ -1,0 +1,13 @@
+English WordLists with sources Unknown
+
+File: english_wordlist1
+Total English Words: 349900
+
+File: english_wordlist2
+Total English Words: 219489
+
+File: english_wordlist3
+Total English Words: 370103
+
+File: english_wordlist4
+Total English Words: 235886
