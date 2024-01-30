@@ -1,7 +1,7 @@
 # English Wordlists
 All the available English Wordlists or Vocabulary Lists
 
-WordLists are collected from Oxford, MIT, University of Michigan, FreeBSD, QTYP and Other sources.
+WordLists are collected from **Oxford**, **MIT**, **University of Michigan**, **FreeBSD**, **QTYP** and Other sources.
 
 NB: Do not distribute the wordlists. Use only for either educational or commercial purpose.
 
